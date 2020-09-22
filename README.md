@@ -1,7 +1,5 @@
 ### Hi there, I'm Igor - aka Frontend Developer 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on dumbojs library
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on open source projects
