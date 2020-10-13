@@ -30,6 +30,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirpinev&theme=light&hide_langs_below=1" />
 </a>
 
+<a href="https://github.com/kirpinev/chatik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirpinev&repo=chatik&theme=light" />
+
+</a>
+
 <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
