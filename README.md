@@ -24,15 +24,13 @@
 ### Github Stats:
 
 <a href="https://github.com/kirpinev">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kirpinev&show_icons=true&theme=light&line_height=27" alt="Igor's github stats"/>
-</a>
-<a href="https://github.com/kirpinev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirpinev&theme=light&hide_langs_below=1" />
 </a>
-
+<a href="https://github.com/kirpinev">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kirpinev&show_icons=true&theme=light&line_height=27" alt="Igor's github stats"/>
+</a>
 <a href="https://github.com/kirpinev/chatik">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirpinev&repo=chatik&theme=light" />
-
 </a>
 
 <div align="center">
