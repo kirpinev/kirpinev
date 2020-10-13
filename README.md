@@ -1,6 +1,6 @@
 ### Hi there, I'm Igor - aka Frontend Developer 👋
 
-- 🔭 I’m currently working on dumbojs library
+- 🔭 I’m currently working on chattik app
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate to open source projects
 - 🥅 2020 Goals: Try not to die
