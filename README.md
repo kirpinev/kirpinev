@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on chattik app
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate to open source projects
-- 🥅 2020 Goals: Try not to die
+- 🥅 2021 Goals: Try not to die
 
 ### Languages and Tools:
 
