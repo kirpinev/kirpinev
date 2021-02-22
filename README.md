@@ -1,7 +1,7 @@
 ### Hi there, I'm Igor - aka Frontend Developer 👋
 
-- 🔭 I’m currently working on chattik app
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working on d2d beeline app
+- 🌱 I’m currently learning Nest.js
 - 👯 I’m looking to collaborate to open source projects
 - 🥅 2021 Goals: Try not to die
 
