@@ -67,7 +67,7 @@
 ### Courses 📚
 - Yandex.Praktikum (Middle Frontend Developer)
   - [idle game](https://github.com/yandex-course-amsterdam/goty): TS, CSS Modules, React, Redux, Redux-Thunk, Formik, Docker, Webpack
-  - [hatik](https://github.com/kirpinev/chatik): HTML, Stylus, TS, Webpack, BEM, API, Docker, Node.js
+  - [chatik](https://github.com/kirpinev/chatik): HTML, Stylus, TS, Webpack, BEM, API, Docker, Node.js
 - Yandex.Praktikum (Junior Frontend Developer)
   - [news explorer (backend)](https://github.com/kirpinev/api-news-explorer): Node.js, Express.js, Nginx, MongoDB
   - [news explorer (frontend)](https://github.com/kirpinev/news-explorer): HTML, CSS, JS(ES6), Webpack, BEM, API
