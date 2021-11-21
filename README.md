@@ -83,6 +83,8 @@
 - HackerRank
   - [JavaScript](https://www.hackerrank.com/certificates/2456dcdd3c37)
   - [Problem Solving](https://www.hackerrank.com/certificates/7ed2357bc15a)
+- Udemy
+  - [Clean Code](https://udemy-certificate.s3.amazonaws.com/image/UC-f8fe058c-f64b-41d3-8711-7641db5d9fe7.jpg)
   
 ### Achievements 🎉
 - Arctic Code Vault Contributor
