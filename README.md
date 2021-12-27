@@ -48,9 +48,12 @@
 - [HackerRank](https://hackerrank.com/ikirpinev)
 
 ### Work experience 👔
+- **Sber** <br/>
+  *Frontend Developer* <br />
+  *03.12.2021 — until now*
 - **Beeline** <br/>
   *Frontend Developer* <br />
-  *26.01.2021 — until now*
+  *26.01.2021 — 02.12.2021*
 - **Get Teacher** <br />
   *Frontend Developer* <br />
   *01.05.2020 — 01.07.2020*
