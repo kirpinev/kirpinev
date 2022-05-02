@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Igor Kirpinev, 27 y.o. and I ❤️ frontend
-- **Software Engineer (Frontend)**  at Beeline Russia
+- **Software Engineer (Frontend)**  at Sber Russia
 
 ### Contacts ☎️
 - kirpinev@yahoo.com
