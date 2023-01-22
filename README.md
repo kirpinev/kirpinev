@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Igor Kirpinev, 28 y.o. and I ❤️ frontend
-- **Software Engineer (Frontend)**  at Sber Russia
+- **Software Engineer (Frontend)**  at Sber
 
 ### Contacts ☎️
 - kirpinev@yahoo.com
@@ -30,13 +30,11 @@
   <img align="center" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
   <img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <img align="center" alt="GitLab" width="26px" src="https://gitlab.com/uploads/-/system/group/avatar/9970/logo-extra-whitespace.png" />
   <img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   <img align="center" alt="WebStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1920px-WebStorm_Icon.svg.png" />
   <img align="center" alt="Heroku" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/1920px-Heroku_logo.svg.png" />
 - **Learning:**
-  <img align="center" alt="Nest.js" width="26px" src="https://habrastorage.org/getpro/habr/post_images/d11/98b/ac8/d1198bac8e4ced0d89d5e5983061f418.png" />
-  <img align="center" alt="Next.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" />
+  <img align="center" alt="Spring" width="40px" src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text.png" />
 - **Previously worked with:**
   <img align="center" alt="Python" width="26px" src="https://img.utdstc.com/icon/c6f/36f/c6f36ff0735c528043bc1a3264f6ff828b2ed29f69e25ccdd78b8006133bcc7f:200" />
   <img align="center" alt="VS Code" width="26px" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" />
@@ -68,6 +66,11 @@
 -  **Bachelor's degree** in Linguistics at Pyatigorsk State University (2010 - 2014)
 
 ### Courses 📚
+- Yandex.Praktikum (Java Backend Developer) - *in progress*
+  - [filmorate](https://github.com/kirpinev/java-filmorate): Spring Boot, Postgresql, JDBC
+  - [kanban](https://github.com/kirpinev/java-kanban): Java Core
+- Yandex.Praktikum (React)
+  - [burger restaurant](https://github.com/kirpinev/burger): TS, CSS Modules, React, Redux, Redux-Thunk, React-DND, Websockets
 - Yandex.Praktikum (Middle Frontend Developer)
   - [idle game](https://github.com/yandex-course-amsterdam/goty): TS, CSS Modules, React, Redux, Redux-Thunk, Formik, Docker, Webpack
   - [chatik](https://github.com/kirpinev/chatik): HTML, Stylus, TS, Webpack, BEM, API, Docker, Node.js
