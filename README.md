@@ -42,7 +42,7 @@
   <img align="center" alt="Docker" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1920px-Docker_%28container_engine%29_logo.svg.png" />
 
 ### Code Mastery 👨‍💻
-- [Codewars](https://www.codewars.com/users/kirpinev)
+- [![codewars](https://www.codewars.com/users/kirpinev/badges/small)](https://www.codewars.com/users/kirpinev) 
 - [HackerRank](https://hackerrank.com/ikirpinev)
 
 ### Work experience 👔
