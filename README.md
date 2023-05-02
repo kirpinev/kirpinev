@@ -66,7 +66,9 @@
 -  **Bachelor's degree** in Linguistics at Pyatigorsk State University (2010 - 2014)
 
 ### Courses 📚
-- Yandex.Praktikum (Java Backend Developer) - *in progress*
+- Yandex.Praktikum (Java Backend Developer)
+  - [explore-with-me](https://github.com/kirpinev/java-explore-with-me): Spring Boot, Docker, Postgresql, Hibernate, JUnit, Mokito
+  - [shareit](https://github.com/kirpinev/java-shareit): Spring Boot, Docker, Postgresql, Hibernate, JUnit
   - [filmorate](https://github.com/kirpinev/java-filmorate): Spring Boot, Postgresql, JDBC
   - [kanban](https://github.com/kirpinev/java-kanban): Java Core
 - Yandex.Praktikum (React)
