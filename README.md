@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Igor Kirpinev and I ❤️ frontend
-- **Software Engineer (Frontend)**  at Sber
+- **Software Engineer (Frontend)**  at T-Bank
 
 ### Contacts ☎️
 - kirpinev@yahoo.com
