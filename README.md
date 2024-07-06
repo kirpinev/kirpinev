@@ -47,7 +47,7 @@
 ### Work experience 👔
 - **Sber** <br/>
   *Frontend Developer* <br />
-  *03.12.2021 — until now*
+  *03.12.2021 — 25.01.2024*
 - **Beeline** <br/>
   *Frontend Developer* <br />
   *26.01.2021 — 02.12.2021*
